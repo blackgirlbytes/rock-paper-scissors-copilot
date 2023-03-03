@@ -9,7 +9,7 @@
     {
       "file": "main.py",
       "line": 1,
-      "description": "Let's give Github Copilot some context about what we're building. Write this comment `# Write a rock, paper, scissors, game` at the top of your main.py file.\n\nPress `Next` to to get started 👇"
+      "description": "Let's give GitHub Copilot some context about what we're building. Write this comment `# Write a rock, paper, scissors, game` at the top of your main.py file.\n\nPress `Next` to to get started 👇"
     },
     {
       "file": "main.py",
@@ -29,9 +29,7 @@
     {
       "title": "Try it out!",
       "description": "Let's run the code to see if it works. In your terminal, run `python main.py`. It should start the rock, paper, scissors game. \n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game in Python 🎉"
-
     }
-    
   ],
   "ref": "main"
 }
