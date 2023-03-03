@@ -28,7 +28,8 @@
     },
     {
       "title": "Try it out!",
-      "description": "Let's run the code to see if it works. In your terminal, run `python main.py`. It should start the rock, paper, scissors game. \n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game in Python 🎉"
+      "description": "Let's run the code to see if it works. In your terminal, run `python3 main.py`. It should start the rock, paper, scissors game. \n\nMission complete! You've used GitHub Copilot to create a rock, paper, scissor game in 
+      🎉"
     }
   ],
   "ref": "main"
