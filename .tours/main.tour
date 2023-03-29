@@ -14,12 +14,12 @@
     {
       "file": "main.py",
       "line": 2,
-      "description": "Now, let's prompt Copilot to import the `random` module. Write this comment `# import random module` on the next line. Press enter to create a new line and accept Copilot's suggstion. \n\nPress `Next` to to get continue 👇"
+      "description": "Now, let's prompt Copilot to import the `random` module. Write this comment `# import random module` on the next line. Press enter to create a new line and TAB to accept Copilot's suggestion. \n\nPress `Next` to to get continue 👇"
     },
     {
       "file": "main.py",
       "line": 4,
-      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game with a  comment that says `# define main function that handles all the logic`. Press enter to create a new line and accept Copilot's suggstion. \n\nPress `Next` to to get continue 👇"
+      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game with a  comment that says `# define main function that handles all the logic`. Press enter to create a new line and TAB to accept Copilot's suggestion. Wait for 10 seconds for Copilot to present a code suggestion. \n\nPress `Next` to to get continue 👇"
     },
     {
       "file": "main.py",
