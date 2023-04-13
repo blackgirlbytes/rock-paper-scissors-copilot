@@ -9,22 +9,32 @@
     {
       "file": "main.py",
       "line": 1,
-      "description": "Let's give GitHub Copilot some context about what we're building. Let's start by adding the following comment to the file line of the main.py file. \n```\n# Write a rock, paper, scissors game\n```\nPress `Next` to to get continue 👇"
+      "description": "Let's give GitHub Copilot some context about what we're building. Let's start by adding the following comment to the file line of the main.py file. \n\n```python\n# Write a rock, paper, scissors game\n```\n\n\nPress `Next` to to get continue 👇"
     },
     {
       "file": "main.py",
       "line": 2,
-      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\n```\n# import random module\n```\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress __Next__ to to get continue 👇"
+      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\n\n```python\n# import random module\n```\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress __Next__ to to get continue 👇"
     },
     {
       "file": "main.py",
       "line": 4,
-      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game. Enter the following comment to provide context to GitHub Copilot \n```\n# define main function that handles all the logic\n```\nPress enter to create a new line and __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see a code suggestion.\n\nPress `Next` to to get continue 👇"
+      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game. Enter the following comment to provide context to GitHub Copilot \n\n```python\n# define main function that handles all the logic\n```\nPress enter to create a new line and __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see a code suggestion.\n\n\n[Open the Copilot suggestions panel](command:github.copilot.generate) and choose the suggestion that seems more appropriate (usually the first).\n\nPress `Next` to to get continue 👇",
+      "selection": {
+        "start": {
+          "line": 8,
+          "character": 40
+        },
+        "end": {
+          "line": 8,
+          "character": 44
+        }
+      }
     },
     {
       "file": "main.py",
       "line": 64,
-      "description": "Now, let's prompt Copilot to call the main function. Add the following comment to a new line.\n```\n# call main function\n``` \nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress `Next` to to get continue 👇"
+      "description": "Now, let's prompt Copilot to call the main function. Add the following comment to a new line.\n\n```python\n# call main function\n``` \nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress `Next` to to get continue 👇"
     },
     {
       "title": "Try it out!",
