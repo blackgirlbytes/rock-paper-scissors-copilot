@@ -14,12 +14,12 @@
     {
       "file": "main.py",
       "line": 2,
-      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\n\n```python\n# import random module\n```\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress __Next__ to to get continue 👇"
+      "description": "Now, let's prompt Copilot to import the `random` module. Add this comment on a new line.\n\n```python\n# import random module\n```\n\n\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\n\nPress __Next__ to to get continue 👇"
     },
     {
       "file": "main.py",
       "line": 4,
-      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game. Enter the following comment to provide context to GitHub Copilot \n\n```python\n# define main function that handles all the logic\n```\nPress enter to create a new line and __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see a code suggestion.\n\n\n[Open the Copilot suggestions panel](command:github.copilot.generate) and choose the suggestion that seems more appropriate (usually the first).\n\nPress `Next` to to get continue 👇",
+      "description": "Now, let's prompt Copilot to create a main function that handles the logic of the game. Enter the following comment to provide context to GitHub Copilot \n\n```python\n# define main function that handles all the logic\n```\n\n\nPress enter to create a new line and __TAB__ to accept Copilot's suggestion. Wait until the Copilot icon stops spinning in the lower right corner of VSCode and you should see another code suggestion.\n\n\n[Open the Copilot suggestions panel](command:github.copilot.generate) and choose the suggestion that seems more appropriate (usually the first).\n\nPress `Next` to to get continue 👇",
       "selection": {
         "start": {
           "line": 8,
@@ -34,7 +34,7 @@
     {
       "file": "main.py",
       "line": 64,
-      "description": "Now, let's prompt Copilot to call the main function. Add the following comment to a new line.\n\n```python\n# call main function\n``` \nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress `Next` to to get continue 👇"
+      "description": "Now, let's prompt Copilot to call the main function. Add the following comment to a new line.\n\n```python\n# call main function\n``` \n\n\nPress enter to create a new line and press __TAB__ to accept Copilot's suggestion. \n\nPress `Next` to to get continue 👇"
     },
     {
       "title": "Try it out!",
