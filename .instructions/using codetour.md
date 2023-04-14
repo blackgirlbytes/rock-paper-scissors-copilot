@@ -28,3 +28,11 @@
 6. When you've completed each step, click the **Next** button to move to the next step in the CodeTour.
 
 <img width="674" alt="CodeTour Navigation" src="https://user-images.githubusercontent.com/20076700/231697257-f18873a0-46e8-49f7-b59e-e1b7769237c8.png">
+
+7. Work your way through each of the steps in the CodeTour to complete this exercise.
+
+
+---
+### Wrap up
+
+Hopefully your Paper, Rock, Scissors game is working! Remember, GitHub Copilot is probabalistic so you may not get the exact same code suggestions as we did. If you're not happy with the suggestions, you can always press **CTRL + Z** to undo the changes and try again.
