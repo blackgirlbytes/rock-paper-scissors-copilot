@@ -1,7 +1,7 @@
 
 ## What is CodeTour?
 
-[CodeTour](https://github.com/microsoft/codetour) is a VS Code extension that allows you to create guided tours of your codebases. It’s a great way to onboard new developers to your project, or to help developers learn how to use a new feature. We're going to use CodeTour to display the steps you want to follow in these hands on  exercises. If you don't want to use CodeTour, you can follow the instructions in the README.md file.
+[CodeTour](https://github.com/microsoft/codetour) is a VS Code extension that allows you to create guided tours of your codebases. It’s a great way to onboard new developers to your project, or to help developers learn how to use a new feature. We're going to use CodeTour to display the steps you want to follow in these hands on exercises. If you don't want to use CodeTour, you can follow the instructions in the [step by step](./stepbystep.md) file.
 
 ## How to use the guided CodeTour
 

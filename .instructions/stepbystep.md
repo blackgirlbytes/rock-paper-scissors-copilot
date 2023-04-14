@@ -1,7 +1,7 @@
 ## Step by step instructions
 
 
-> NOTE: You're welcome to follow along using these steps but we have a guided CodeTour option that displays the instructions directly in the VSCode editor if you prefer. To use the CodeTour, follow the instructions in the [Using CodeTour](./using-codetour.md) file.
+> NOTE: You're welcome to follow along using these steps but we have a guided CodeTour option that displays the instructions directly in the VSCode editor if you prefer. To use the CodeTour, follow the instructions in the [Using-CodeTour](./using-codetour.md) file.
 ---
 :bulb:  When you see the :leftwards_arrow_with_hook: symbol, you need to press the ENTER key.
 
