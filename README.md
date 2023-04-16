@@ -22,4 +22,4 @@ We recommend you use CodeTour to help walk you through this exercise. You can fi
 * **Non CodeTour** (Written step by step instructions)
 You can follow the instructions available here: [stepbystep.md](./instructions/stepbystep.md)
 
-<img width="1059" alt="Rock Paper Scissors image" src="https://user-images.githubusercontent.com/20076700/231930170-800cd2b5-6c56-4f33-9ab8-30e925e6ead7.png">
+<img width="1059" alt="Rock Paper Scissors image" src="./assets/Rock Paper Scissors image.png">
