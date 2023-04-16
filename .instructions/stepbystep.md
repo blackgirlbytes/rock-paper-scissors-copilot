@@ -8,12 +8,13 @@
 
 1. For our exercises, you'll get started by navigating to the appropriate repo and choosing '**Use this template**', and '**Open in a codespace**'
 
-<img width="601" alt="Open in a Codespace" src="https://user-images.githubusercontent.com/20076700/231696631-1e5b1ff9-c999-43c9-a8ac-6145e0a4842a.png">
+<img width="601" alt="Open in a Codespace" src="../assets/Open in a Codespace.png">
+
+
 
 2. Ensure you can see the files in the **Explorer view**. If not, click the **Explorer View icon** on the left sidebar of your editor.
 
-<img width="398" alt="Code Explorer View" src="https://user-images.githubusercontent.com/20076700/231671364-55727e9e-6f82-4b5d-a8d1-ba96f40abce5.png">
-
+<img width="398" alt="Code Explorer View" src="../assets/Code Explorer View.png">
 
 3. Open the ```main.py``` file if it's not already open in the editor.
 4. Let's start by adding the following comment to provide some context for the code we're about to write:
@@ -25,7 +26,8 @@
 
 6. When you press **Enter** after typing the previous comment, GitHub Copilot will suggest some code for you. Select the first suggestion by pressing **TAB** then **Enter** again.
 
-<img width="529" alt="Copilot Suggestion - Import Random" src="https://user-images.githubusercontent.com/20076700/231915312-fbb8eed7-c6da-44d5-b24c-163c2356cbde.png">
+
+<img width="529" alt="Copilot Suggestion - Import Random" src="../assets/Copilot Suggestion - Import Random.png">
 
 7. Now we're going to prompt GitHub Copilot to suggest code for us by typing the following:
 
@@ -35,7 +37,8 @@
 9. **Pause briefly** while Copilot creates up to 10 suggestions for you. You should see the Copilot icon in the lower right corner of the editor spinning. When Copilot displays the first suggestion, we're going to open the GitHub Copilot suggestion panel by pressing **CTRL + ENTER**. 
 10. Scroll down the list of suggestions that GitHub Copilot has made and choose the one that looks like the best option for our Rock, Paper, Scissors game. When you see the suggestion you want, click **Accept Solution** to have that code snippet inserted into your code file.
 
-<img width="906" alt="Copilot Suggestion - Accept Solution" src="https://user-images.githubusercontent.com/20076700/231915425-982b8887-82db-414c-9415-165f64239c40.png">
+<img width="906" alt="Copilot Suggestion - Accept Solution" src="../assets/Copilot Suggestion - Accept Solution.png">
+
 
 11. On the line following the last snippet, let's prompt GitHub Copilot to suggest the final line of code for us by typing the following:
 
@@ -43,7 +46,7 @@
 
 12. When you press Enter after typing the previous comment, GitHub Copilot will suggest some code for you. Select the first suggestion by pressing TAB then Enter again.
 
-<img width="498" alt="Copilot Suggestion - def main" src="https://user-images.githubusercontent.com/20076700/231915455-0b1d6519-53de-48c5-b23d-5a5ebc426200.png">
+<img width="498" alt="Copilot Suggestion - def main" src="../assets/Copilot Suggestion - def main.png">
 
 
 **Now we're ready to see if this code executes** :thumbsup:
@@ -54,7 +57,7 @@
 
 Here's an example of what the completed game might look like.
 
-<img width="645" alt="Running the game" src="https://user-images.githubusercontent.com/20076700/231915477-7f9f2d2c-b6a8-4c1e-81ca-12c6535e1a6c.png">
+<img width="645" alt="Running the game" src="../assets/Running the game.png">
 
 
 ---
