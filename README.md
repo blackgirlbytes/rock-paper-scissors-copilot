@@ -16,10 +16,10 @@ This is a self-guided tutorial to help folks learn how to use GitHub Copilot. In
 Choose **either** the CodeTour or Non-CodeTour instructions below.
 
 * **CodeTour**  (Inline instructions)
-We recommend you use CodeTour to help walk you through this exercise. You can find the instructions at [using-codetour.md](./instructions/using-codetour.md)
+We recommend you use CodeTour to help walk you through this exercise. You can find the instructions at [using-codetour.md](./.instructions/using-codetour.md)
 
 
 * **Non CodeTour** (Written step by step instructions)
-You can follow the instructions available here: [stepbystep.md](./instructions/stepbystep.md)
+You can follow the instructions available here: [stepbystep.md](./.instructions/stepbystep.md)
 
 <img width="1059" alt="Rock Paper Scissors image" src="./assets/Rock Paper Scissors image.png">
