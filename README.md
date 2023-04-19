@@ -6,7 +6,7 @@ Estimated time to complete: `<10 minutes`
 This is a self-guided tutorial to help folks learn how to use GitHub Copilot. In this project you will find: 
 * a `main.py` file with no contents
 * a devcontainer that installs CodeTour and GitHub Copilot when the Codespace is created
-* an instructions folder comtaining a CodeTour to guide the developer through using GitHub Copilot or a file with step by step to instuctions if you don't want to use CodeTour. 
+* an instructions folder containing a CodeTour to guide the developer through using GitHub Copilot or a file with step by step to instuctions if you don't want to use CodeTour. 
 
 ## To complete this tutorial, you will need:
 * Access to [GitHub Copilot](https://github.com/features/copilot)
