@@ -37,4 +37,4 @@
 ---
 ### Wrap up
 
-Hopefully your Paper, Rock, Scissors game is working! Remember, GitHub Copilot is probabalistic so you may not get the exact same code suggestions as we did. If you're not happy with the suggestions, you can always press **CTRL + Z** to undo the changes and try again.
+Hopefully your Paper, Rock, Scissors game is working! Remember, GitHub Copilot is probabilistic so you may not get the exact same code suggestions as we did. If you're not happy with the suggestions, you can always press **CTRL + Z** to undo the changes and try again.
