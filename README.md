@@ -10,17 +10,17 @@ In this fun workshop, you will learn how to use GitHub Copilot to build a simple
 
 Participants will be guided to install the GitHub Copilot VS Code extension, follow a CodeTour to learn how to interact with GitHub Copilot, and then use GitHub Copilot to build a Rock, Paper, Scissors game from scratch. 
 
-Depending on the time available, participants will be able to complete the game or just get started, from a simple version all the way to introducing additional logic to make the game more interesting complete with unit tests and REST API endpoints.
+Depending on the time available, participants will be able to complete the game or just get started, from a simple version all the way to introducing additional logic to make the game more interesting complete, with unit tests and REST API endpoints.
 
 Estimated time to complete: `10 to 60 minutes`
 
 ## Instructions for Workshop Organizers
 
-We recommend having a GitHub Solutions Engineer or workshop organizer be present at all times to help out during the hands-on experience, and to ensure participants sign up ahead of the session and that a trial enableed for all participants (request support from your GitHub Sales representatitive) or via Copilot for Individuals or Business licenses. 
+We recommend having a GitHub Solutions Engineer or workshop organizer be present at all times to help out during the hands-on experience, and to ensure participants sign up ahead of the session and that a trial is enabled for all participants (you may request support from your GitHub Sales representatitive) or via Copilot for Individuals or Business licenses. 
 
 # Setup
 
-For best result, we recommend participants to use Codespaces with the CodeTour extension installed (provided in this repository's devcontainer.json file). 
+For best results, we recommend participants to use Codespaces with the CodeTour extension installed (provided in this repository's devcontainer.json file). 
 
 [**GitHub Codespaces**](https://github.com/features/codespaces) is a cloud-based development environment that allows you to code in the cloud from your browser and comes with included allowances for personal and Enterprise accounts. You can check under your [billing settings page](https://github.com/settings/billing) to verify if you have enough allowance to use a Codespace.
 
@@ -40,6 +40,9 @@ In this project you will find:
 
 ## To complete this tutorial, you will need:
 * Access to [GitHub Copilot](https://github.com/features/copilot)
+* A copy of this repository
+* Codespaces (batteries included!)
+    *  Alternatively, VS Code with the CodeTour extension and Python 3 installed
 
 ## Getting started
 
@@ -52,7 +55,7 @@ We recommend you use CodeTour to help walk you through this exercise. You can fi
 * **Non CodeTour** (Written step by step instructions)
 You can follow the instructions available here: [stepbystep.md](./.instructions/stepbystep.md)
 
-We strongly recommend participants to form teams of 2 or 3 to complete the workshop and to learn from each other.
+💡 For a more collaborative experience we recommend participants to form teams of 2 or 3 to complete the workshop and to learn from each other.
 
 # Additional Challenges
 
