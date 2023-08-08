@@ -10,7 +10,7 @@
 			"extensions": [
 				"vsls-contrib.codetour",
 				"GitHub.copilot",
-        "github.copilot-chat",
+				"github.copilot-chat",
         
 			]
 		}
